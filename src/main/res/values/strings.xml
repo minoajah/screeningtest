@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">screening test</string>
+    <string name="guest_image">https://image.tmdb.org/t/p/w500</string>
+</resources>
